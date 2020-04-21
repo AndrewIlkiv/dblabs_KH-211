@@ -2,4 +2,7 @@
 ## Hello 
 This is where we learn DATA BASS
 
-### Dont forget to check all the reports
+### пані Христина!
+Вибачте, що не залив вчасно
+Я переплутав і скомітив звіти не в той репозиторій 
+### Ще раз прошу вибачення!
